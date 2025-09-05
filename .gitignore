@@ -1,0 +1,25 @@
+# Personal writing workspace (not tracked)
+writing/
+
+# macOS
+.DS_Store
+
+# Editors/IDEs
+.idea/
+.vscode/
+*.code-workspace
+
+# Logs and caches
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+.pnpm-debug.log*
+.cache/
+
+# Node (in case templates add tooling later)
+node_modules/
+dist/
+build/
+
+
