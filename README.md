@@ -87,7 +87,9 @@ The rule set was reconstructed from public screenshots to make it easier to use 
 
 ## attribution
 
-These rules were captured from a video where Lee Robinson discussed his writing approach and shared them verbally with Greg Isenberg. The author of the original rules is Lee Robinson (GitHub: @leerob). Five short bullets under `## Sentence structure` were inferred in this repo because they were not visible in the screenshots; they align with the surrounding guidance, but may differ slightly from the source. If Lee can share the original text, we will update the file to match.
+- Original author: [Lee Robinson](https://github.com/leerob).
+- Context: shared in a video conversation with Greg Isenberg (link pending; add here when available).
+- Note: Five short bullets under `## Sentence structure` were inferred because they were not visible in the screenshots. They match the surrounding guidance but may differ slightly from the source. If Lee can share the exact wording, we’ll update the file.
 
 If you know the canonical source or have the exact lines, please open an issue.
 
