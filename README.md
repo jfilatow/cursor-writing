@@ -88,7 +88,7 @@ The rule set was reconstructed from public screenshots to make it easier to use 
 ## attribution
 
 - Original author: [Lee Robinson](https://github.com/leerob).
-- Context: shared in a video conversation with Greg Isenberg (link pending; add here when available).
+- Context: shared in a video conversation with Greg Isenberg — [YouTube link](https://www.youtube.com/watch?v=8QN23ZThdRY).
 - Note: Five short bullets under `## Sentence structure` were inferred because they were not visible in the screenshots. They match the surrounding guidance but may differ slightly from the source. If Lee can share the exact wording, we’ll update the file.
 
 If you know the canonical source or have the exact lines, please open an issue.
